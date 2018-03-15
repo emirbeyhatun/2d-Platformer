@@ -1,0 +1,19 @@
+AutumPlatformerTileset
+Assets\AllSprites\SpritePacks\unzips\tilesets\AutumPlatformerTileset
+1. Attribution to https://craftpix.net/
+ 2. Short summary of the license is available here: https://creativecommons.org/licenses/by/3.0/
+
+FantasyRpgIcons
+Assets\AllSprites\SpritePacks\unzips\tilesets\FantasyRpgIcons
+1. Attribution to http://www.ludicarts.com/
+2. Short summary of the license is available here: https://creativecommons.org/licenses/by/3.0/
+
+FoodMonsters
+Assets\AllSprites\SpritePacks\unzips\tilesets\FoodMonsters
+ 1. Attribution to "Food Monsters Pack" Olga Bikmullina (http://ahninniah.graphics)
+ 2. Short summary of the license is available here: https://creativecommons.org/licenses/by/3.0/
+
+GrassyPlatformerTileSet
+Assets\AllSprites\SpritePacks\unzips\tilesets\GrassyPlatformerTileset
+ 1. Attribution to http://www.ludicarts.com/
+ 2. Short summary of the license is available here: https://creativecommons.org/licenses/by/3.0/
